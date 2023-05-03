@@ -1,4 +1,4 @@
-"use srtict";
+'use srtict';
 let accessRights = prompt('Введите цифру от 0 до 7');
 switch (+accessRights) {
   case 0:
