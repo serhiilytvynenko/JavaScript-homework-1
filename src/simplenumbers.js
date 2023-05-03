@@ -1,4 +1,4 @@
-'use srtict';
+"use srtict";
 for (let i = 2; i <= 100; i++) {
   let simpleNumber = true;
 
